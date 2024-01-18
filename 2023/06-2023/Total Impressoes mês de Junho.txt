@@ -1,0 +1,20 @@
+1.Registro Impressão 21-06-2023 - Documentos = 96 - Follhas = 169
+
+2.Registro Impressão 22-06-2023 - Documentos = 11 - Folhas = 19
+
+3.Registro Impressão 23-06-2023 - Documentos = 40 - Folhas = 170
+
+4.Registro Impressão 26-06-2023 - Documentos = 21 - Folhas = 30
+
+5.Registro Impressão 27-06-2023 - Documentos = 18 - Folhas = 23
+
+6.Registro Impressão 28-06-2023 - Documentos = 43 - Folhas = 66
+
+7.Registro Impressão 29-06-2023 - Documentos = 34 - Folhas = 50
+
+8.Registro Impressão 30-06-2023 - Documentos = 42 - Folhas = 82
+
+
+Documentos = 305
+
+Folhas = 609
