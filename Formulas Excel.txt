@@ -1,0 +1,6 @@
+Documentos Impressos:
+=CONT.NÚM()
+
+
+Página(s) Impressas:
+=SOMA()
