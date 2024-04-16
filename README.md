@@ -5,11 +5,13 @@ Neste repositório, você encontrará os registros diários de impressões das i
 
 ### RICOH Aficio SP 5210SF 
 
-<img src="https://github.com/ErickDaniel7/record-impressions/blob/main/IMG/RICOH%20Aficio%20SP%205210SF.jpg" width="400">
+<img src="https://github.com/ErickDaniel7/record-impressions/blob/main/IMG/RICOH%20Aficio%20SP%205210SF.png" width="400">
+<br>
 
 ### RICOH Aficio SP 5200DN 
 
-<img  src="https://github.com/ErickDaniel7/record-impressions/blob/main/IMG/RICOH%20Aficio%20SP%205200DN.jpg" width="400">
+<img  src="https://github.com/ErickDaniel7/record-impressions/blob/main/IMG/RICOH%20Aficio%20SP%205200DN.png" width="320">
+<br>
 
 ### Calculadora feita em python para facilitar o calculo do total de impressões por mês
 
